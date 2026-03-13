@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "雪の華 (silent version)",
+  "base_artist": "Mika Nakashima",
+  "createdAt": "2026-03-13T08:55:05.522615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/01_雪の華_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/02_雪の華_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/03_雪の華_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "Hanafugetsu",
+      "has_synced": false,
+      "path": "select/04_雪の華_Hanafugetsu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "高垣楓",
+      "has_synced": true,
+      "path": "select/05_雪の華_高垣楓.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/06_雪の華_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "JISOO",
+      "has_synced": true,
+      "path": "select/07_雪の華_JISOO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/08_雪の華_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雪の華",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/09_雪の華_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "雪の華 Piano & Voice Style",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/10_雪の華_Piano_&_Voice_Style_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "雪の華 Piano & Voice Style",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/11_雪の華_Piano_&_Voice_Style_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "雪の華 Reggae Disco Rockers 2018 Relaxin' mix",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/12_雪の華_Reggae_Disco_Rockers_2018_Relaxin'_mix_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snowflowers -雪の華-",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/13_Snowflowers_-雪の華-_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "雪の華 / JISOO - LIVE BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_雪の華___JISOO_-_LIVE_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_OSAK_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "雪の華 (LIVE) [JISOO Solo]",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/15_雪の華_(LIVE)_[JISOO_Solo]_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "雪の華 Piano & Voice Style",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/16_雪の華_Piano_&_Voice_Style_中島美嘉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_01_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_02_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_03_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_04_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_05_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_06_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_07_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_08_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_09_雪の華_中島_美嘉.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "雪の華",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_10_雪の華_中島_美嘉.txt"
+    }
+  ]
+}
